@@ -1,0 +1,24 @@
+{
+  "name": "src5",
+  "version": "1.0.0",
+  "description": "use of lists like flatlist,scrollview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravsavanur07/react-native-list.git"
+  },
+  "keywords": [
+    "SectionList",
+    "FlatList",
+    "ScrollView"
+  ],
+  "author": "Gaurav Savanur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravsavanur07/react-native-list/issues"
+  },
+  "homepage": "https://github.com/gauravsavanur07/react-native-list#readme"
+}
